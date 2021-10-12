@@ -1,9 +1,9 @@
 {
-    "id": "6165ec32e7f05db532e5b45b",
+    "id": "6165ec4ce7f05db532e5b493",
     "name": "testTrigger",
     "type": "SCHEDULED",
     "config": {
-        "schedule": "*/1 * * * *"
+        "schedule": "*/5 * * * *"
     },
     "disabled": false,
     "event_processors": {
