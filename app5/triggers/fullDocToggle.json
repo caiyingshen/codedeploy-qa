@@ -1,5 +1,5 @@
 {
-    "id": "622690c17a9d40da17c1c695",
+    "id": "622690e3bfcd4c53bd4229f5",
     "name": "fullDocToggle",
     "type": "DATABASE",
     "config": {
@@ -15,7 +15,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": false,
+        "full_document_before_change": true,
         "unordered": false
     },
     "disabled": false,
