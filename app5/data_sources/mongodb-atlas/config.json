@@ -7,7 +7,7 @@
             {
                 "collectionName": "restaurants",
                 "dbName": "sample_restaurants",
-                "recordPreimages": true
+                "recordPreimages": false
             }
         ],
         "readPreference": "primary",
